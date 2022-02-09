@@ -1,0 +1,222 @@
+1644427821186	geckodriver	INFO	Listening on 127.0.0.1:62993
+1644427824240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilegtmbwM"
+1644427825866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilegtmbwM\\search.json.mozlz4", (void 0)))
+1644427833588	Marionette	INFO	Listening on port 63002
+1644427833924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8369: unreachable code after return statement
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8444: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644427845862	Marionette	INFO	Stopped listening on port 63002
+1644428568369	geckodriver	INFO	Listening on 127.0.0.1:59864
+1644428571447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilerrH0cm"
+*** You are running in headless mode.
+1644428572331	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilerrH0cm\\search.json.mozlz4", (void 0)))
+1644428574185	Marionette	INFO	Listening on port 59872
+1644428574665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8369: unreachable code after return statement
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8444: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644428589028	Marionette	INFO	Stopped listening on port 59872
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644429288396	geckodriver	INFO	Listening on 127.0.0.1:52201
+1644429291461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilehVFBWy"
+*** You are running in headless mode.
+1644429292135	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilehVFBWy\\search.json.mozlz4", (void 0)))
+1644429293875	Marionette	INFO	Listening on port 52209
+1644429294148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8369: unreachable code after return statement
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8444: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644429306015	Marionette	INFO	Stopped listening on port 52209
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644430008379	geckodriver	INFO	Listening on 127.0.0.1:59089
+1644430011450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilewvuKTa"
+*** You are running in headless mode.
+1644430012149	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilewvuKTa\\search.json.mozlz4", (void 0)))
+1644430013861	Marionette	INFO	Listening on port 59097
+1644430014149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8369: unreachable code after return statement
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8444: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644430026078	Marionette	INFO	Stopped listening on port 59097
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1644430728390	geckodriver	INFO	Listening on 127.0.0.1:59227
+1644430731470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilexFZ6NU"
+*** You are running in headless mode.
+1644430732119	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilexFZ6NU\\search.json.mozlz4", (void 0)))
+1644430733802	Marionette	INFO	Listening on port 59235
+1644430734157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8369: unreachable code after return statement
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8444: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644430747394	Marionette	INFO	Stopped listening on port 59235
+1644431448354	geckodriver	INFO	Listening on 127.0.0.1:63599
+1644431451400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilehynryg"
+*** You are running in headless mode.
+1644431451722	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilehynryg\\search.json.mozlz4", (void 0)))
+1644431452783	Marionette	INFO	Listening on port 63607
+1644431452957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8369: unreachable code after return statement
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8444: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644431465170	Marionette	INFO	Stopped listening on port 63607
+1644432168357	geckodriver	INFO	Listening on 127.0.0.1:63746
+1644432171441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofileiWhWAm"
+*** You are running in headless mode.
+1644432171700	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofileiWhWAm\\search.json.mozlz4", (void 0)))
+1644432172757	Marionette	INFO	Listening on port 63754
+1644432172982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8369: unreachable code after return statement
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8444: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644432185866	Marionette	INFO	Stopped listening on port 63754
+1644432888352	geckodriver	INFO	Listening on 127.0.0.1:63882
+1644432891440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilebrY2TO"
+*** You are running in headless mode.
+1644432891712	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilebrY2TO\\search.json.mozlz4", (void 0)))
+1644432892751	Marionette	INFO	Listening on port 63890
+1644432892999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8369: unreachable code after return statement
+JavaScript warning: https://isa.epfl.ch/imoniteur_ISAP/!ewxslSource.js?ww_x_paths=Eqnx.Moniteur.Portals.Portal_set_js:en, line 8444: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1644432904534	Marionette	INFO	Stopped listening on port 63890
+1644433608354	geckodriver	INFO	Listening on 127.0.0.1:62341
+1644433611422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilelmlyoc"
+*** You are running in headless mode.
+1644433611699	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\anith\\AppData\\Local\\Temp\\rust_mozprofilelmlyoc\\search.json.mozlz4", (void 0)))
+1644433612734	Marionette	INFO	Listening on port 62349
+1644433612967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://isa.epfl.ch"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
