@@ -1,0 +1,14 @@
+:root {
+	--background-color: #5521da;
+	--color-one: purple;
+	--color-two: rgb(199, 98, 143);
+	--color-three: pink;
+	--text-one: rgb(74, 53, 74);
+	--text-white: white;
+}
+
+body{
+	margin: 100;
+	background-color: var(--background-color);
+	background: linear-gradient(270deg, var(--color-one) 0%	, var(--color-two) 50%, var(--color-three) 100%);	
+}
